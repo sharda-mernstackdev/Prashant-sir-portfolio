@@ -1,0 +1,43 @@
+{
+  "name": "Prashant Kadhao — Motivational Speaker & Leadership Coach",
+  "short_name": "Prashant Kadhao",
+  "description": "Motivational Speaker, Public Speaker, Leadership & Business Coach in Nagpur",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0B1437",
+  "theme_color": "#0B1437",
+  "orientation": "portrait-primary",
+  "lang": "en-IN",
+  "categories": ["business", "education", "lifestyle"],
+  "icons": [
+    {
+      "src": "/images/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
